@@ -1,0 +1,15 @@
+@import "./../../node_modules/compass-mixins/lib/compass";
+@import "./../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    background: cyan;
+}
